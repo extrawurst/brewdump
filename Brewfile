@@ -23,6 +23,7 @@ brew "m-cli"
 brew "maven"
 brew "mercurial"
 brew "mitmproxy"
+brew "tesseract", args: ["with-all-languages"]
 brew "ocrmypdf"
 brew "pcre"
 brew "qt"
