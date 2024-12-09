@@ -3,3 +3,4 @@ dump:
 
 install:
     brew bundle --file=./Brewfile
+    brew cleanup --prune=all
